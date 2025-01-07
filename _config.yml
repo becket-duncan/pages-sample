@@ -20,7 +20,8 @@ ult# Welcome to Jekyll!
 
 title: My awesome title
 email: becket.duncan@colorado.edu
-description: this is a description of my website
+description: >- # this means to ignore newslines until "baseurl:"
+Hello! Welcome!
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
 url: "https://becket-duncan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
